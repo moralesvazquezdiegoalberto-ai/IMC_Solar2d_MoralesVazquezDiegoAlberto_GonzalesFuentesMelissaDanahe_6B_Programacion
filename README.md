@@ -26,11 +26,3 @@ La app categoriza según los estándares de la OMS:
 - **25.0 - 29.9:** Sobrepeso
 - **> 30.0:** Obesidad
 
-## Capturas de Pantalla
-![Interfaz Inicial](link_a_tu_captura1)
-![Cálculo Exitoso](link_a_tu_captura2)
-
-
-
----
-© 2024 - Práctica Escolar IMC
