@@ -30,9 +30,7 @@ La app categoriza según los estándares de la OMS:
 ![Interfaz Inicial](link_a_tu_captura1)
 ![Cálculo Exitoso](link_a_tu_captura2)
 
-## Video Demostrativo
-Puedes ver el funcionamiento de la aplicación aquí:  
-[Enlace al video en YouTube/Drive]
+
 
 ---
 © 2024 - Práctica Escolar IMC
